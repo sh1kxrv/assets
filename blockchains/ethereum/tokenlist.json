@@ -3454,6 +3454,16 @@
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xCEBA2a8F6Ec221AEB5f3a7bcd15Cbc7e6a387bfb/logo.png",
             "pairs": []
+        },
+        {
+            "asset": "",
+            "type": "ERC20",
+            "address": "0x712bd4Beb54C6B958267d9dB0259abdBb0BFF606",
+            "name": "Undeads Games",
+            "symbol": "UDS",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x712bd4Beb54C6B958267d9dB0259abdBb0BFF606/logo.png",
+            "pairs": []
         }
     ],
     "version": {
